@@ -21,7 +21,7 @@ resume_contact_telephone:       "+82-10-3794-5817"
 resume_contact_address:         "Donam-dong, Sunbuk-gu, Seoul"
 
 resume_header_contact_info:     "Seoul and Sydney • +82-10-3794-5817 • arashinoohno@naver.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "True"
 
 resume_header_intro: "<p>I am a master's student in the Computer Science program at the University of Sydney, specializing in Data Science. Previously, I worked as a marketer with over five years of experience in the Korean and Chinese markets. I am currently pursuing my studies to transition into a career as a data scientist.</p>"
 
