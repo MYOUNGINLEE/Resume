@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Data
+- skill: Data analysis, Data Visualization
+  description: Statistical analysis and reporting with data visualization skill
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Tool
+- skill: Python, R
+  description: Web Crawling, Pandas, Numpy, Scipy, Matplolib, Seaborn and other libraries
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Language
+- skill: Korean, English, Japanese and Chinese
+  description: Native in Korea, Fluent in English and Japanese and Business level in Chinese
