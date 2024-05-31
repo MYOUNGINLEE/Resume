@@ -23,7 +23,7 @@ resume_contact_address:         "Donam-dong, Sunbuk-gu, Seoul"
 resume_header_contact_info:     "Seoul and Sydney • +82-10-3794-5817 • arashinoohno@naver.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I am a master's student in the Computer Science program at the University of Sydney, specializing in Data Science. Previously, I worked as a marketer with over five years of experience in the Korean and Chinese markets. I am currently pursuing my studies to transition into a career as a data scientist.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
