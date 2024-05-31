@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "True"
 resume_name:                    "Myoungin Lee"
 resume_title:                   "Master's Student of Computer Science at USYD"
 
